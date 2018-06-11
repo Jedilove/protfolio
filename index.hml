@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Jedidah Stoll</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Black+And+White+Picture|Cuprum|Orbitron" rel="stylesheet">
+  </head>
+<body>
+  <div class="navbar">
+  <a href="index.html">Home</a>
+  <a href="aboutme.html">About Me</a>
+  <a href="featurepage.html">Feature Page</a>
+  <a href="projects.html">Project</a>
+ </div>
+  <div id="banner">
+    <h1>Jedidah Stoll</h1>
+  </div>
+  <div id="heading">
+    <h2>Fashion</h2>
+    <h2>Smart</h2>
+    <h2>Friendly</h2>
+  </div>
+</body>
+</html>
